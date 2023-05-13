@@ -38,5 +38,7 @@ label start:
     y "I mean, I have ideas, but I really don't want to act on them. I just like to think, you know?"
 
     y "It feels good."
+    
+    y "What comes next?"
 
     return
