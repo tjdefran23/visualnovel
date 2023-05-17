@@ -1,5 +1,5 @@
 # visualnovel
 
-* Team Members:
+Team Members:
 * Bennett Chang
 * TJ DeFrancesco
